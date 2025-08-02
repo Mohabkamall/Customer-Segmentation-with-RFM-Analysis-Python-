@@ -1,4 +1,5 @@
-# Customer-Segmentation-with-RFM-Analysis-Python
+# 🧩Customer-Segmentation-with-RFM-Analysis-Python
+![](https://imatrix.com/wp-content/uploads/sites/12/2021/03/ecommerce.jpg)
 
 ## 📝 Task Overview 
 
